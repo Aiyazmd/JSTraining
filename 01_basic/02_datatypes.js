@@ -4,8 +4,7 @@
 //Accorning to new standards it wont allow to use old standers code if we us it it will throw some king of erros
 
 
-
-
+//------------------------------------------------//------------------------------------------------
 
 
 //Data Types in javaacript :
